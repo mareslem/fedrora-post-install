@@ -1,0 +1,1 @@
+khelpcenter akregator kmail kaddressbook dnfdragora dragon elisa-player mediawriter firefox kamoso kde-connect kfind kgpg kmag kmahjongg kmines kmousetool kmouth kolourpaint konversation korganizer kpat krdc krfb kwalletmanager5 kwrite libreoffice* qt5-qdbusviewer abrt-gui pam-kwallet plasma-discover ibus gnome*
